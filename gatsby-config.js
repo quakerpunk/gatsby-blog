@@ -3,12 +3,13 @@ module.exports = {
     title: `Just Some Dude`,
     author: {
       name: `Shawn Borton`,
-      summary: `who lives and works near Dallas and builds useful things.`,
+      summary: `who builds and writes and builds and writes...`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `QuakerPunk`,
+      instagram: `quakerpunk`,
     },
   },
   plugins: [
