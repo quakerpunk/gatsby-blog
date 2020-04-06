@@ -5,7 +5,7 @@ module.exports = {
       name: `Shawn Borton`,
       summary: `who builds and writes and builds and writes...`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Dev tips and tricks, stories. musings and more`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `QuakerPunk`,
