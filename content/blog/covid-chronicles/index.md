@@ -1,3 +1,8 @@
+---
+title: "The Covid Chronicles"
+description: "Recording what's going on in these days"
+---
+
 ### April 5, 2020
 
 - Gas prices were $1.51, $1.39 in some places
@@ -9,7 +14,7 @@
 - NBA, NHL, MLB - every major sport has stopped or hasn't started.
 - Concerts, tours, festivals, entertainment events, all cancelled.
 - Weddings, family celebrations, holiday gatherings, all cancelled.
-    - Funerals limited to a specific number and being live streamed.
+  - Funerals limited to a specific number and being live streamed.
 - Church buildings have been closed. Since the Church is the people and not the building, the Church has moved online. Most stream via Facebook Live or YouTube.
 - At first, gatherings of 50 or more were outlawed. Then it became 20. Now it's 10. Any gatherings should be limited to immediate family.
 - Shortage of masks, gowns, gloves for our front-line workers. They are grocery store employees, doctors, nurses. Toilet paper and paper towel shelves have been emptied. Hand sanitizer and hand soap are hard to find.
@@ -24,8 +29,8 @@
 - Big industries help make more ventilators & more masks for hospitals.
 - Press conferences daily from the President and state governors, providing updates on new cases, recoveries, and deaths.
 - Companies are providing incentives to stay home
-    - Movies that would be running in theaters are now coming to on-demand video.
-    - CBS All Access offered a free month.
-    - Pluralsight, a site offering online technical classes, has also offered a free month.
-    - Many restaurants offer contactless delivery or curbside service.
+  - Movies that would be running in theaters are now coming to on-demand video.
+  - CBS All Access offered a free month.
+  - Pluralsight, a site offering online technical classes, has also offered a free month.
+  - Many restaurants offer contactless delivery or curbside service.
 - This is the Novel Coronavirus (Covid-19) Pandemic, declared March 11th, 2020.
