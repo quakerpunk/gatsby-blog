@@ -34,3 +34,6 @@ description: "Recording what's going on in these days"
   - Pluralsight, a site offering online technical classes, has also offered a free month.
   - Many restaurants offer contactless delivery or curbside service.
 - This is the Novel Coronavirus (Covid-19) Pandemic, declared March 11th, 2020.
+
+### The Covid Chronicles 
+- [April 6](april-6)
