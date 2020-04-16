@@ -22,7 +22,7 @@ More testing is always good
 Meanwhile, someone is getting a funky high on a yellow sun...
 
 > Overheard on the scanner...  
-  
+> 
 > MedStar is transporting a patient to JPS who has reportedly recovered from both COVID-19 and the flu because he claims “he is Superman.”
 
  DFW Scanner (@DFWscanner) [April 16, 2020](https://twitter.com/DFWscanner/status/1250603321905369090)
