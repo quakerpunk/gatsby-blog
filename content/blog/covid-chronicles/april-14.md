@@ -17,7 +17,7 @@ Time to change those passwords.
 For local golf fans, [there’s a little good news]( https://www.wfaa.com/mobile/article/sports/golf/pga-set-to-return-to-action-at-colonial/287-1fa9a12e-2b65-4974-a8cd-f2d9d9b04359)?
 
 > PGA set to return to action at Colonial 
-
+> 
 > While golf may return at Colonial in June, safety precautions concerning COVID-19 would likely prevent fans from attending the event.
 
 Hey, it’s something. 

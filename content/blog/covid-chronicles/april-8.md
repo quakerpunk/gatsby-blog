@@ -25,9 +25,9 @@ https://twitter.com/Goodable/status/1247932892803710979?s=20
 #### Some Good News
 
 > BREAKING GOOD NEWS ALERT:  
-  
+> 
 > This weekend, Tyler Perry went to an Atlanta restaurant to pickup a takeout order, and left a $500 tip for each of the restaurant’s 21 employees.  
-  
+> 
 > Today, he paid for all the groceries during Seniors Hour at 44 supermarket locations in Atlanta. [pic.twitter.com/vyg4qEmWvz](https://t.co/vyg4qEmWvz)
 
  Goodable (@Goodable) [April 8, 2020](https://twitter.com/Goodable/status/1247932892803710979)
