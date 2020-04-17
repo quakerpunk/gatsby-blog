@@ -19,7 +19,7 @@ Our governor has a plan...
  Jason Whitely (@JasonWhitely) [April 17, 2020](https://twitter.com/JasonWhitely/status/1251196437204959238)
 
 > [#NOW](https://twitter.com/hashtag/NOW?src=hash&ref_src=twsrc%5Etfw): [@GovAbbott](https://twitter.com/GovAbbott): "On Monday, April 27, we will announce additional ways to open Texas."  
-  
+>   
 > They will include potentially reopening restaurants, etc. if they can maintain social distancing.
 
  Jason Whitely (@JasonWhitely) [April 17, 2020](https://twitter.com/JasonWhitely/status/1251198459211927553)
