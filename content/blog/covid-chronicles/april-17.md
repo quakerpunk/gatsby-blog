@@ -26,7 +26,13 @@ Our governor has a plan...
 
 > .[@GovAbbott](https://twitter.com/GovAbbott) says phased opening strategy will require comprehensive testing and assurances from hospitals about readiness. Mentions April 27 as when restaurants and movie theaters MAY begin to reopen. ([@wfaa](https://twitter.com/wfaa))
 
- William Joy (@WilliamJoy) [April 17, 2020](https://twitter.com/WilliamJoy/status/1251198684743847940)
+William Joy (@WilliamJoy) [April 17, 2020](https://twitter.com/WilliamJoy/status/1251198684743847940)
+
+- - -
+
+If you read [yesterday's post](april-16), you'll recall that we're now required to wear masks and I mentioned it's a head scratcher. Well, things became more clear after an emergency meeting by the County Commissioners this morning. [They voted 3-2](https://www.dallasnews.com/news/public-health/2020/04/17/dallas-county-commissioners-vote-to-scale-back-county-wide-mask-order-reopen-crafts-stores/) to clarify that no one will be fined or incur the wrath of law enforcement if they don't wear a mask. It's still a good idea, so good in fact the Commissioners also voted to reopen craft stores to allow folks to buy the materials needed for homemade masks.
+
+Yes, you heard me right. Craft stores are now essential businesses.
 
 - - -
 
