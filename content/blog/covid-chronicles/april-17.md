@@ -6,6 +6,17 @@ description: "The Covid Chronicles for April 17"
 
 ### April 17
 
+- Total Cases in North Texas: 4,716 (+253)
+- Total Deaths in North Texas: 123 (+8)
+
+The bad news? That’s the biggest 1-day jump so far.  The good news?
+
+> Cases continue to grow each day; however, log scale shows it is taking longer for case numbers to double. Something to watch!  
+  
+DFW Scanner (@DFWscanner) [April 18, 2020](https://twitter.com/DFWscanner/status/1251329788712824833)
+
+- - - 
+
 Our governor has a plan...
 
 > [#NOW](https://twitter.com/hashtag/NOW?src=hash&ref_src=twsrc%5Etfw): [@GovAbbott](https://twitter.com/GovAbbott) issues executive order detailing how the Texas economy reopens with [#COVID19](https://twitter.com/hashtag/COVID19?src=hash&ref_src=twsrc%5Etfw). "We must be guided by data and by doctors. We must put health hand safety first."
