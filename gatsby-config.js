@@ -6,7 +6,8 @@ module.exports = {
       summary: `who builds and writes and builds and writes...`,
     },
     description: `Dev tips and tricks, stories. musings and more`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    // siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://shawnborton.dev`,
     social: {
       twitter: `QuakerPunk`,
       instagram: `quakerpunk`,
