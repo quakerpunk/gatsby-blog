@@ -30,12 +30,12 @@ More:
 
 But our county judge isn’t in love with the plan
 
-> ***BREAKING***  
-  
-> Dallas County [@JudgeClayJ](https://twitter.com/JudgeClayJ) is asking county health officials to review [@GovAbbott](https://twitter.com/GovAbbott)’s plan to reopen businesses on May 1st.   
-  
-> Disagrees with opening places like movie theaters.   
-  
+> ***BREAKING***
+>
+> Dallas County [@JudgeClayJ](https://twitter.com/JudgeClayJ) is asking county health officials to review [@GovAbbott](https://twitter.com/GovAbbott)’s plan to reopen businesses on May 1st.
+>
+> Disagrees with opening places like movie theaters.
+>
 > Says he hopes people will focus on “what should they do” not “what can they do.” [pic.twitter.com/r2OS8X5ENJ](https://t.co/r2OS8X5ENJ)
 
  Matt Howerton (@HowertonNews) [April 28, 2020](https://twitter.com/HowertonNews/status/1254961328403472385)
