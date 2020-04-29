@@ -7,7 +7,7 @@ description: "The Covid Chronicles for April 28"
 ### April 28
 
 -  Dallas County: 3,240 total cases, 135 new cases and 10 deaths.
--  That's ties the deadliest day so far and sets a record for new reported cases.
+-  That ties the deadliest day so far and sets a record for new reported cases.
 
 > Remember, the Governor’s orders may change but the underlying science will not. I strongly recommend everyone take their advice from the [@CDCgov](https://twitter.com/CDCgov) and local health authorities as to what is safe for them, their families and our broader community.
 
