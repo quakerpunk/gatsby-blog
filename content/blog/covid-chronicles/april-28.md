@@ -9,7 +9,9 @@ description: "The Covid Chronicles for April 28"
 -  Dallas County: 3,240 total cases, 135 new cases and 10 deaths.
 -  That's ties the deadliest day so far and sets a record for new reported cases.
 
-https://twitter.com/JudgeClayJ/status/1255228419757027328
+> Remember, the Governor’s orders may change but the underlying science will not. I strongly recommend everyone take their advice from the [@CDCgov](https://twitter.com/CDCgov) and local health authorities as to what is safe for them, their families and our broader community.
+
+ Clay Jenkins (@JudgeClayJ) [April 28, 2020](https://twitter.com/JudgeClayJ/status/1255228419757027328)
 
 - - -
 
@@ -25,7 +27,11 @@ The museum's restaurant, Musume, **will** be open for dine-in and curbside picku
 
 More not-ready-to openings:
 
-https://twitter.com/fileunderdan/status/1255193851498770438
+> Dallas movie theaters reopening this weekend:  
+  
+> None, so far. [@AMCTheatres](https://twitter.com/AMCTheatres), [@AlamoDFW](https://twitter.com/AlamoDFW), [@CinepolisUSA](https://twitter.com/CinepolisUSA), [@FlixBrewhouseTX](https://twitter.com/FlixBrewhouseTX), [@studiomoviegril](https://twitter.com/studiomoviegril) and the [@TexasTheatre](https://twitter.com/TexasTheatre) all plan to stay shut, they say.
+
+ Dan Singer (@fileunderdan) [April 28, 2020](https://twitter.com/fileunderdan/status/1255193851498770438)
 
 Developing...
 
@@ -33,11 +39,9 @@ Developing...
 
 Grim news, indeed.
 
-https://twitter.com/cnnbrk/status/1255200462040526848
+> The number of confirmed coronavirus cases in the US surpasses one million, according to a tally by Johns Hopkins University. Follow live updates:  https://www.cnn.com/webview/us/live-news/us-coronavirus-update-04-28-20/h_16fef1a2a5a8fa30b744c27bc28025e5 [pic.twitter.com/yDF7f4uDgV](https://t.co/yDF7f4uDgV)
 
-- - -
-
-https://twitter.com/WSJ/status/1255236859090870279
+ CNN Breaking News (@cnnbrk) [April 28, 2020](https://twitter.com/cnnbrk/status/1255200462040526848)
 
 - - -
 
