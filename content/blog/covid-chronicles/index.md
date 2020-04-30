@@ -35,7 +35,8 @@ description: "Recording what's going on in these days"
   - Many restaurants offer contactless delivery or curbside service.
 - This is the Novel Coronavirus (Covid-19) Pandemic, declared March 11th, 2020.
 
-### The Covid Chronicles 
+### The Covid Chronicles
+
 - [April 6](april-6)
 - [April 7](april-7)
 - [April 8](april-8)
@@ -51,3 +52,4 @@ description: "Recording what's going on in these days"
 - [April 27](april-27)
 - [April 28](april-28)
 - [April 29](april-29)
+- [April 30](april-30)
