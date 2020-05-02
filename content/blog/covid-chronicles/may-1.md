@@ -6,7 +6,7 @@ description: "The Covid Chronicles for May 1"
 
 ### May 1
 
-- Dallas County: 3,718 total cases, 187 new cases, and 2 deaths.
+- Dallas County: 3,718 total cases, 187 new cases, and 2 more deaths.
 
 Scratch that, today is the worst day for new cases. But today is the Grand Re-Opening of Texas!
 
