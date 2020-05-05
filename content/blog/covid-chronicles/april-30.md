@@ -7,6 +7,7 @@ description: "The Covid Chronicles for April 30"
 ### April 30
 
 - Dallas County: 3,531 total cases, 179 new cases, and 5 deaths.
+- Gas update: Price is \$1.25/gallon
 
 This is the worst day so far for new cases, but there's a good reason:
 
