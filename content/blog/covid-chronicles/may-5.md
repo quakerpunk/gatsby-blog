@@ -25,6 +25,14 @@ Here's the complete list:
 
 ---
 
+This salon owner made waves when she defied local officials and opened her salon on April 30, one day before businesses began reopening. And nearly a week before her business would be allowed to open.
+
+Moral of the story: Patience remains a virtue.
+
+<https://www.wfaa.com/article/news/local/dallas-salon-owner-refused-close-sentenced-7-days-jail-ordered-pay-fines/287-beefb4d5-4bc9-4ecd-9661-420c14c75ce9>
+
+---
+
 Excellent news
 
 <https://twitter.com/dgoins/status/1257696800200208385>
