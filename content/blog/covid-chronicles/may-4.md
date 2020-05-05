@@ -10,9 +10,11 @@ description: "The Covid Chronicles for May 4"
 
 ---
 
-These times are hard on a lot of people.
+The state is finally helping those seeking additional unemployment. 
 
-<https://twitter.com/jasonwheelertv/status/1257383155910299649A>
+> [#Breaking](https://twitter.com/hashtag/Breaking?src=hash&ref_src=twsrc%5Etfw): [#TexasWorkforceCommission](https://twitter.com/hashtag/TexasWorkforceCommission?src=hash&ref_src=twsrc%5Etfw) will announce soon that they are now beginning to process the 13 additional weeks of [#UnemploymentBenefits](https://twitter.com/hashtag/UnemploymentBenefits?src=hash&ref_src=twsrc%5Etfw). Depending on how you receive correspondence, they will START sending instructions by email TODAY and by mail STARTING May 9th. [@wfaa](https://twitter.com/wfaa)
+
+Jason Wheeler (@jasonwheelertv) [May 4, 2020](https://twitter.com/jasonwheelertv/status/1257383155910299649)
 
 ---
 
