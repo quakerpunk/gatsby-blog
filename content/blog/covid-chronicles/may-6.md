@@ -43,7 +43,7 @@ Today was Dallas' turn for a flyover from the [Blue Angels](https://en.wikipedia
 Kyle Roberts (@KyleWeather) [May 6, 2020](https://twitter.com/KyleWeather/status/1258064704309727235)
 
 > Got a very quick glimpse from my window.  
-  
+> 
 > Thank you [@BlueAngels](https://twitter.com/BlueAngels) and [#ThankYouHealthWorkers](https://twitter.com/hashtag/ThankYouHealthWorkers?src=hash&ref_src=twsrc%5Etfw) and everyone else working on the frontlines. [pic.twitter.com/L5eEt5XFK4](https://t.co/L5eEt5XFK4)
 
 Chris Sadeghi (@chrissadeghi) [May 6, 2020](https://twitter.com/chrissadeghi/status/1258067521917333504)
@@ -68,7 +68,7 @@ William Joy (@WilliamJoy) [May 6, 2020](https://twitter.com/WilliamJoy/status/12
 Here are some nice pics:
 
 > A winged horse and six winged angels.  
-  
+> 
 > Fly high.[#Dallas](https://twitter.com/hashtag/Dallas?src=hash&ref_src=twsrc%5Etfw) [@BlueAngels](https://twitter.com/BlueAngels) [#Thankyouheroes](https://twitter.com/hashtag/Thankyouheroes?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/6IcDUF29cV](https://t.co/6IcDUF29cV)
 
 Chris Sadeghi (@chrissadeghi) [May 6, 2020](https://twitter.com/chrissadeghi/status/1258072238017908736)
