@@ -29,7 +29,7 @@ Some legitimate reasons why you would refuse to wear a mask in this article. Som
 The Ballad of Shelly Luther continues:
 
 > .[@GovAbbott](https://twitter.com/GovAbbott) and [@TXAG](https://twitter.com/TXAG) are calling for Shelley Luther to be released from jail after she violated [@GovAbbott](https://twitter.com/GovAbbott)'s lockdown order.   
-  
+> 
 > Abbott says there should be a less restrictive way to ensure compliance. Salons can reopen this Friday in Texas.  https://twitter.com/GregAbbott_TX/status/1258091170179305473
 
  William Joy (@WilliamJoy) [May 6, 2020](https://twitter.com/WilliamJoy/status/1258093866563047424)
