@@ -12,11 +12,11 @@ The numbers went down slightly today.
 
 ---
 
-I scrolled through on my Facebook feed this morning. Two different people, who I don't think have ever met, have posted the same video from YouTube. I guess it offers a different take on the pandemic, as one of those friends called Dr. Fauci a fraud.
+I scrolled through on my Facebook feed this morning. Two different people, who I don't think have ever met, posted the same video from YouTube. I guess it offers a different take on the pandemic, as one of those friends called Dr. Fauci a fraud.
 
 I need convincing. Our numbers spiked recently and we've set new records for the number of positive cases. But I get it. There's as much anxiety with opening and the health issues that would present, with not opening and risking missed mortgage payments and rent, and not being able to make ends meet. Some business transactions can't happen over Zoom.
 
-Being unsure what is the best course of action, but erring on the side of caution is a reasonable position to stake out. Stay safe out there, everyone.
+I’d like to see more testing before opening up more. Stay safe out there, everyone.
 
 ---
 
