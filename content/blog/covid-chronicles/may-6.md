@@ -26,13 +26,13 @@ Some legitimate reasons why you would refuse to wear a mask in this article. Som
 
 ---
 
-The Ballad of Shelly Luther continues:
+The Ballad of Shelley Luther continues:
 
-> .[@GovAbbott](https://twitter.com/GovAbbott) and [@TXAG](https://twitter.com/TXAG) are calling for Shelley Luther to be released from jail after she violated [@GovAbbott](https://twitter.com/GovAbbott)'s lockdown order.   
-> 
-> Abbott says there should be a less restrictive way to ensure compliance. Salons can reopen this Friday in Texas.  https://twitter.com/GregAbbott_TX/status/1258091170179305473
+> .[@GovAbbott](https://twitter.com/GovAbbott) and [@TXAG](https://twitter.com/TXAG) are calling for Shelley Luther to be released from jail after she violated [@GovAbbott](https://twitter.com/GovAbbott)'s lockdown order.
+>
+> Abbott says there should be a less restrictive way to ensure compliance. Salons can reopen this Friday in Texas. https://twitter.com/GregAbbott_TX/status/1258091170179305473
 
- William Joy (@WilliamJoy) [May 6, 2020](https://twitter.com/WilliamJoy/status/1258093866563047424)
+William Joy (@WilliamJoy) [May 6, 2020](https://twitter.com/WilliamJoy/status/1258093866563047424)
 
 ---
 
@@ -42,8 +42,8 @@ Today was Dallas' turn for a flyover from the [Blue Angels](https://en.wikipedia
 
 Kyle Roberts (@KyleWeather) [May 6, 2020](https://twitter.com/KyleWeather/status/1258064704309727235)
 
-> Got a very quick glimpse from my window.  
-> 
+> Got a very quick glimpse from my window.
+>
 > Thank you [@BlueAngels](https://twitter.com/BlueAngels) and [#ThankYouHealthWorkers](https://twitter.com/hashtag/ThankYouHealthWorkers?src=hash&ref_src=twsrc%5Etfw) and everyone else working on the frontlines. [pic.twitter.com/L5eEt5XFK4](https://t.co/L5eEt5XFK4)
 
 Chris Sadeghi (@chrissadeghi) [May 6, 2020](https://twitter.com/chrissadeghi/status/1258067521917333504)
@@ -56,8 +56,8 @@ David Schechter (@DavidSchechter) [May 6, 2020](https://twitter.com/DavidSchecht
 
 Chris Lawrence (@clawrenceDFW) [May 6, 2020](https://twitter.com/clawrenceDFW/status/1258068407842373639)
 
-> The ⁦[@BlueAngels](https://twitter.com/BlueAngels)⁩ just flew over us in ⁦[@GrapevineTXCity](https://twitter.com/GrapevineTXCity)⁩ !  
-God Bless America!![#AmericaStrong](https://twitter.com/hashtag/AmericaStrong?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/btFAWs4k1h](https://t.co/btFAWs4k1h)
+> The ⁦[@BlueAngels](https://twitter.com/BlueAngels)⁩ just flew over us in ⁦[@GrapevineTXCity](https://twitter.com/GrapevineTXCity)⁩ !
+> God Bless America!![#AmericaStrong](https://twitter.com/hashtag/AmericaStrong?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/btFAWs4k1h](https://t.co/btFAWs4k1h)
 
 Cynthia Izaguirre (@wfaaizzy) [May 6, 2020](https://twitter.com/wfaaizzy/status/1258068497688678404)
 
@@ -67,8 +67,8 @@ William Joy (@WilliamJoy) [May 6, 2020](https://twitter.com/WilliamJoy/status/12
 
 Here are some nice pics:
 
-> A winged horse and six winged angels.  
-> 
+> A winged horse and six winged angels.
+>
 > Fly high.[#Dallas](https://twitter.com/hashtag/Dallas?src=hash&ref_src=twsrc%5Etfw) [@BlueAngels](https://twitter.com/BlueAngels) [#Thankyouheroes](https://twitter.com/hashtag/Thankyouheroes?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/6IcDUF29cV](https://t.co/6IcDUF29cV)
 
 Chris Sadeghi (@chrissadeghi) [May 6, 2020](https://twitter.com/chrissadeghi/status/1258072238017908736)
