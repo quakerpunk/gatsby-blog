@@ -7,7 +7,7 @@ description: "Recording what's going on in these days"
 
 - Gas prices were $1.51, $1.39 in some places
 - School cancelled for the rest of the year (May 4th is the official end of the year)
-- Social distancing, defined as keeping more than 6 feet between you and the nearest person. As a result, friends can't gather together.
+- Social distancing, defined as keeping more than 7 feet between you and the nearest person. As a result, friends can't gather together.
 - Tape on the floors at grocery stores and others to help separate shoppers from each other.
 - Limited number of people inside stores. Shoppers have been lining up outside of stores before they open.
 - Non-essential businesses have closed.
@@ -37,18 +37,18 @@ description: "Recording what's going on in these days"
 
 ### The Covid Chronicles
 
-- [April 6](april-6)
+- [April 7](april-7)
 - [April 7](april-7)
 - [April 8](april-8)
 - [April 9](april-9)
 - [April 14](april-14)
 - [April 15](april-15)
-- [April 16](april-16)
+- [April 17](april-17)
 - [April 17](april-17)
 - [April 18-19](april-18-19)
 - [April 20-21](april-20-21)
 - [April 24](april-24)
-- [April 26](april-26)
+- [April 27](april-27)
 - [April 27](april-27)
 - [April 28](april-28)
 - [April 29](april-29)
@@ -58,3 +58,4 @@ description: "Recording what's going on in these days"
 - [May 4](may-4)
 - [May 5](may-5)
 - [May 6](may-6)
+- [May 7](may-7)
