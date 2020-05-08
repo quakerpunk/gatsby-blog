@@ -12,29 +12,41 @@ description: "The Covid Chronicles for May 7"
 
 Man...
 
-<https://twitter.com/nytimes/status/1258404325702930433>
+> Breaking News: Neiman Marcus has become the first major department store to file for bankruptcy during the pandemic https://www.nytimes.com/2020/05/07/business/neiman-marcus-bankruptcy.html?smtyp=cur&smid=tw-nytimes
+
+The New York Times (@nytimes) [May 7, 2020](https://twitter.com/nytimes/status/1258404325702930433)
 
 ---
 
-This morning, Governor Greg Abbott amended his executive order to stop jailing business owners who violate local shelter-in-place orders and reopen their businesses ahead of schedule. That includes local salon owner Shelley Luther and two Laredo-area salon owners:
+This morning, Governor Greg Abbott amended his executive order to stop jailing business owners who reopen their businesses ahead of schedule and violate local shelter-in-place orders. That includes local salon owner Shelley Luther and two Laredo-area salon owners:
 
-<https://twitter.com/lmcgaughy/status/1258404594583035904>
+> BREAKING: [@GovAbbott](https://twitter.com/GovAbbott) amends his executive order to prohibit the jailing of Texans who defy coronavirus shutdown orders.  
+> 
+> He does this in response to the jailing of Dallas salon owner Shelley Luther. [#txlege](https://twitter.com/hashtag/txlege?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LBNhjwAeFb](https://t.co/LBNhjwAeFb)
 
-The Governor in his announcement made a good point: it doesn't make sense to release prisoners due to COVID-19, then turn around and lock up business owners who defy shelter-in-place orders. See Below
+Lauren McGaughy (@lmcgaughy) [May 7, 2020](https://twitter.com/lmcgaughy/status/1258404594583035904)
 
-<https://twitter.com/WilliamJoy/status/1258415637828861952>
+The Governor in his announcement made a good point: it doesn't make sense to release prisoners due to COVID-19, then turn around and lock up business owners who defy shelter-in-place orders.
+
+> In a statement, Abbott says “if correctly applied”, his new order “should free Shelley Luther.” ([@wfaa](https://twitter.com/wfaa)) [pic.twitter.com/uDixqnF58y](https://t.co/uDixqnF58y)
+
+William Joy (@WilliamJoy) [May 7, 2020](https://twitter.com/WilliamJoy/status/1258415637828861952)
 
 Then, the Texas Supreme Court decided to release Luther:
 
-<https://twitter.com/WilliamJoy/status/1258427800920436737>
+> [#BREAKING](https://twitter.com/hashtag/BREAKING?src=hash&ref_src=twsrc%5Etfw): The Texas Supreme Court has ordered the release of Shelley Luther, a Dallas salon owner who was sentenced to seven days in jail for contempt of court after she violated the governor’s lockdown order ([@wfaa](https://twitter.com/wfaa))  https://twitter.com/oslersctx/status/1258419088696774659
 
-Now it's important to note that she wasn't in jail because she violated the Governor's executive order, nor does the amendment exonerate her. She violated a judge's order, at least according to this:
+William Joy (@WilliamJoy) [May 7, 2020](https://twitter.com/WilliamJoy/status/1258427800920436737)
 
-<https://twitter.com/LaVendrickS/status/1258414269915414528>
+Now it's important to note that she wasn't in jail because she violated the Governor's executive order, nor does his amendment exonerate her. She violated a judge's order, at least according to this:
 
-Make sense?
+> This doesn't affect Shelley Luther, a jail spokesman just told me. Luther is in jail for contempt of court because she violated a judge's order. She's not in jail for violating the governor's executive order.  https://twitter.com/lmcgaughy/status/1258404594583035904
 
-No word on if authorities will rescind the fine or if the Supreme Court will release the salon owners from Laredo.
+ LaVendrick Smith (@LaVendrickS) [May 7, 2020](https://twitter.com/LaVendrickS/status/1258414269915414528)
+
+Make sense? No word on if authorities will rescind the fine.
+
+Those salon owners in Laredo? [Already out on bond](https://www.lmtonline.com/local/article/Gov-Abbott-issues-order-after-two-Laredo-women-15253855.php). 
 
 ---
 
