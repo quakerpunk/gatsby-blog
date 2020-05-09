@@ -10,7 +10,13 @@ description: "The Covid Chronicles for May 8"
 
 ---
 
-<https://twitter.com/TexasStandard/status/1258772626262167555>
+> The monthly jobs report is out.  
+> 
+> It shows Depression-era unemployment: 13% for adult men, 15.5% for adult women, 31.9% for teens, 14.2% for Whites, 16.7% for Blacks, 14.5% for Asians, and 18.9% for Hispanics.   
+> 
+> 20.5 millions jobs lost last month total:  https://www.npr.org/sections/coronavirus-live-updates/2020/05/08/852430930/one-for-the-history-books-14-7-unemployment-20-5-million-jobs-wiped-away [pic.twitter.com/CHhHcpN3Xt](https://t.co/CHhHcpN3Xt)
+
+Texas Standard (@TexasStandard) [May 8, 2020](https://twitter.com/TexasStandard/status/1258772626262167555)
 
 ---
 
@@ -26,4 +32,6 @@ Remdesivir, don't fail us now... [Malaria drug shows no benefit in another coron
 
 Dave Ramsey with some tidbits of good news
 
-<https://twitter.com/DaveRamsey/status/1258770758475698177>
+> Keep on looking for the GOOD NEWS. [pic.twitter.com/NIRG8XqgIw](https://t.co/NIRG8XqgIw)
+
+ Dave Ramsey (@DaveRamsey) [May 8, 2020](https://twitter.com/DaveRamsey/status/1258770758475698177)
