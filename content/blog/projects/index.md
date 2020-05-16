@@ -10,9 +10,21 @@ Let’s digress from the current unpleasantness for a moment. Here are some proj
 
 This is the big one. A brand spanking new house in 2020 needs some kind of smart capability. 
 
-One rule: the missus and I don’t want to farm this out to the cloud. No Amazon, no Google, no Nest, no Nest by Google, and [definitely not Wink](https://www.theverge.com/2020/5/6/21249950/smart-home-platform-wink-monthly-subscription). That means setting up [Home Assistant](https://www.home-assistant.io/) locally. 
+One rule: the missus and I don’t want to farm this out to the cloud. No Amazon, no Google, no Nest, no Nest by Google, and [definitely not Wink](https://www.theverge.com/2020/5/6/21249950/smart-home-platform-wink-monthly-subscription). That means setting up [Home Assistant](https://www.home-assistant.io/) locally, along with a network of Z-Wave devices.
 
-I’ve also wanted a massive file server that houses movies in [Plex](https://www.plex.tv/), stores any music files we’ve purchased, and serve as a Time Machine vault. 
+Why Z-Wave? While it’s a proprietary protocol, I’ll know that these devices will have no trouble taking with one another. With Zigbee, that’s not a certainty. 
+
+I’m planning on seeing how we use the house for 6 months so I can get an idea of which switches we use the most. Then, update those with Z-Wave switches. 
+
+I’ve also wanted a massive home server. The plan right now is for a server based on [OpenMediaVault](https://www.openmediavault.org/) with additional services running in Docker. Those services would include:
+
+- Home Assistant
+- [Plex](https://www.plex.tv/)
+- [Calibre](https://calibre-ebook.com/)
+- Pi-Hole?
+- [Huginn](https://github.com/huginn/huginn)?
+- Something for automated backups (a la Time Machine)
+- Something to store video captured from security cameras 
 
 Stay tuned. 
 
