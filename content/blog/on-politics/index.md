@@ -3,3 +3,5 @@ The body politic is suffering from a disease, but I don’t know what the cure i
 Disagreement is healthy to be sure, but what we’re seeing these days goes way beyond that. 
 
 Even Dante, that great Italian poet, populated hell with his enemies. 
+
+Why buoy the narratives from either side when a third, potentially more interesting story could be found?
