@@ -16,7 +16,7 @@ Why Z-Wave? While it’s a proprietary protocol, I’ll know that these devices 
 
 I’m planning on seeing how we use the house for 6 months so I can get an idea of which switches we use the most. Then, update those with Z-Wave switches. 
 
-I’ve also wanted a massive home server. The plan right now is for a server based on [OpenMediaVault](https://www.openmediavault.org/) with additional services running in Docker. Those services would include:
+I’ve also wanted a massive home server. The plan is for a server based on [OpenMediaVault](https://www.openmediavault.org/) with services running in Docker. Those services would include:
 
 - Home Assistant
 - [Plex](https://www.plex.tv/)
@@ -30,13 +30,11 @@ Stay tuned.
 
 ## The Fortification of My New House 
 
-Fortification is a strong word. No, we’re not talking machine gun turrets or boiling oil. We’re talking security cameras outside, air cleaning inside. 
+Fortification is a strong word, but given [events in early 2020](covid-chronicles), it’s appropriate. Now I’m not trying to turn our happy home into a prepper’s bunker, but we are talking security cameras outside and a comfortable environment inside, along with some other creature comforts:
 
-Do we invest in a whole house backup generator? 
-
-Do we invest in solar cells?
-
-Do I slap a UV light on the air intake of our A/C units?
+- The missus is interested in a whole house backup generator. Do we invest in that?
+- Our neighbor has a solar cell array. Do we invest in that?
+- Do I slap a UV light on the air intake of our A/C units? It kills germs.
 
 ## Writing Gooder with 1Writer
 
