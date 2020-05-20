@@ -47,4 +47,3 @@ That's a good sign.
 > Full release in photo: [pic.twitter.com/gZhpcD8IX4](https://t.co/gZhpcD8IX4)
 
 William Joy (@WilliamJoy) [May 19, 2020](https://twitter.com/WilliamJoy/status/1262873927992389632)
-
