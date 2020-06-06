@@ -1,0 +1,1 @@
+https://twitter.com/JonathanTurley/status/1268861688515788800?s=20
