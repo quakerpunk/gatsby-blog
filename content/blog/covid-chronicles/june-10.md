@@ -8,8 +8,6 @@ description: "The Covid Chronicles for June 10"
 
 - Dallas County: 12,945 total cases, 300 new cases, and 3 more deaths.
 
----
-
 Hey! Long time no blog.
 
 I've been busy this past month or so. I moved! And I've been busy getting that sorted out.
