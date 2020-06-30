@@ -73,3 +73,6 @@ description: "Recording what's going on in these days"
 #### A Little While Later
 
 - [June 10](june-10)
+- [June 19](june-19)
+- [June 26](june-26)
+- [June 29](june-29)
