@@ -76,3 +76,6 @@ description: "Recording what's going on in these days"
 - [June 19](june-19)
 - [June 26](june-26)
 - [June 29](june-29)
+- [June 30](june-30)
+- [July 1](july-1)
+- [July 2](july-2)
