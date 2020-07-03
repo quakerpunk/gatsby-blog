@@ -14,7 +14,9 @@ Perhaps some good news is finally happening on the COVID-19 front.
 
 First up is this Twitter thread. I'd take it with a grain of salt, but it reveals some of the reasoning behind the data (exactly what is a "COVID hospitalization"?) and suggests that new cases may be milder than before.
 
-https://twitter.com/AlexBerenson/status/1277773122301804546
+> Wondering what’s really happening in Texas? Here’s the email, from a senior executive at a Texas ER chain that sees thousands of patients a month. He went on the record - a brave move. I’m going to let him speak for himself. (Two tweets of screenshots. Worth reading to the end.) [pic.twitter.com/4xuBdTIFIc](https://t.co/4xuBdTIFIc)
+
+Alex Berenson (@AlexBerenson) [June 30, 2020](https://twitter.com/AlexBerenson/status/1277773122301804546)
 
 Second is that while recent protests spread the coronavirus, it was less severe than hanging out in a bar.
 
@@ -26,7 +28,9 @@ I'm still going to wear my mask and maintain a six-foot bubble around me, but I'
 
 ---
 
-https://twitter.com/WSJ/status/1278365933317341189
+> An experimental coronavirus vaccine from Pfizer and partner BioNTech showed promising signs of working in an early-stage study, researchers said  https://www.wsj.com/articles/coronavirus-vaccine-candidate-from-pfizer-biontech-produces-positive-results-in-early-study-11593620774?mod=e2tw
+
+The Wall Street Journal (@WSJ) [July 1, 2020](https://twitter.com/WSJ/status/1278365933317341189)
 
 ---
 
