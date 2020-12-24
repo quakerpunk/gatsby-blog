@@ -1,5 +1,6 @@
 ---
 title: "The Covid Chronicles"
+date: 2020-07-03
 description: "Recording what's going on in these days"
 ---
 
