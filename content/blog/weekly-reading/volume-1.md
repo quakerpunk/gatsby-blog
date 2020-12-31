@@ -1,9 +1,3 @@
----
-title: "Weekly Reading: Volume 1"
-date: "2021-01-04"
-description: "The first in a series of (hopefully) interesting links"
----
-
 How do you make a libertarian? Just do something stupid, like the FDA did. 
 
 [When There Wasn’t Enough Hand Sanitizer, Distilleries Stepped Up. Now They’re Facing $14,060 FDA Fees. – Reason.com](https://reason.com/2020/12/30/when-there-wasnt-enough-hand-sanitizer-distilleries-stepped-up-now-theyre-facing-14060-fda-fees)
