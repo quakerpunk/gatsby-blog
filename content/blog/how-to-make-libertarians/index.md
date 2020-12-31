@@ -7,3 +7,13 @@ Just do something stupid, like the FDA just did.
 > “People are incredibly anxious,” Harris says. “We have been dealing with tons of phone calls talking to individual members and state guilds to tell them what we know and what we don’t know.”
 
 Good grief. 
+
+- - -
+
+Happy trails, FarmVille
+
+[FarmVille Once Took Over Facebook. Now Everything Is FarmVille. - The New York Times](https://www.nytimes.com/2020/12/31/technology/farmville-zynga-facebook.html#click=https://t.co/2SphFEWeSu)
+
+> In early 2009, when Facebook was still nascent in its efforts to swallow as much of the internet as possible, online games were not yet the behemoth they would become.
+> 
+> Then, that June, came FarmVille.
