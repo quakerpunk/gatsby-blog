@@ -1,4 +1,4 @@
-Just do something stupid, like the FDA just did. 
+How do you make a libertarian? Just do something stupid, like the FDA did. 
 
 [When There Wasn’t Enough Hand Sanitizer, Distilleries Stepped Up. Now They’re Facing $14,060 FDA Fees. – Reason.com](https://reason.com/2020/12/30/when-there-wasnt-enough-hand-sanitizer-distilleries-stepped-up-now-theyre-facing-14060-fda-fees)
 
@@ -17,3 +17,11 @@ Happy trails, FarmVille
 > In early 2009, when Facebook was still nascent in its efforts to swallow as much of the internet as possible, online games were not yet the behemoth they would become.
 > 
 > Then, that June, came FarmVille.
+
+- - -
+
+[Amazon still hasn’t fixed its problem with bait-and-switch reviews | Ars Technica](https://arstechnica.com/tech-policy/2020/12/amazon-still-hasnt-fixed-its-problem-with-bait-and-switch-reviews/)
+
+> This kind of review bait-and-switch is not a new problem. More than two years ago, Buzzfeed's Nicole Nguyen [wrote](https://www.buzzfeednews.com/article/nicolenguyen/amazon-review-reuse-fraud) about other online sellers using the same scam. For example, she found that many of the five-star reviews for a highly-rated iPhone charging dock were actually reviews for a culinary torch.
+
+Is it just me or has Amazon just let anything go on their site?
