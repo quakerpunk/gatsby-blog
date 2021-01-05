@@ -1,5 +1,5 @@
 ---
-title: "Weekly Reading: Volune 1"
+title: "Weekly Reading: Volume 1"
 date: "2021-01-04"
 description: "The first in a series of (hopefully) interesting links"
 ---
