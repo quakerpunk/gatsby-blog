@@ -1,3 +1,9 @@
+---
+title: "Weekly Reading: Volume 2"
+date: "2021-01-10"
+description: "How many crises afflict the United Statew"
+---
+
 > All of American politics is now an online fundraising maximization play
 
  Patrick Ruffini (@PatrickRuffini) [January 5, 2021](https://twitter.com/PatrickRuffini/status/1346494229254696966)
