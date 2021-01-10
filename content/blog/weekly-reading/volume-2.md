@@ -29,3 +29,9 @@ description: "How many crises afflict the United States?"
 Of course, we can't ignore the events of January 6, a truly dark day for our democracy and our standing in the world. I think it's vital that we listen to the words of Arnold Schwarzenegger.
 
 [Governor Schwarzenegger's Message Following this Week's Attack on the Capitol](https://youtu.be/x_P-0I6sAck)
+
+- - -
+
+If a lack of empathy is what we're missing in our current political environment, here's how you can improve things...
+
+[Dystopian Fiction: How Stories Transform Your Mind](https://youtu.be/4K-_ccYsBI0)
