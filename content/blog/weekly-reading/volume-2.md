@@ -32,6 +32,6 @@ Of course, we can't ignore the events of January 6, a truly dark day for our dem
 
 - - -
 
-If a lack of empathy is what we're missing in our current political environment, here's how you can improve things...
+If a lack of empathy is what we're missing in our current political environment, here's how you can improve that...
 
 [Dystopian Fiction: How Stories Transform Your Mind](https://youtu.be/4K-_ccYsBI0)
