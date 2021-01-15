@@ -1,4 +1,3 @@
-
 ---
 title: "Weekly Reading: Volume 3"
 date: "2021-01-17"
