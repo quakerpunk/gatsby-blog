@@ -31,3 +31,9 @@ Weird move by *Politico*, but as they say, there’s no such thing as bad press.
 [EFF's Response to Social Media Companies' Decisions to Block President Trump’s Accounts](https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts)
 
 > The decisions by Twitter, Facebook, Instagram, Snapchat, and others to suspend and/or block President Trump’s communications via their platforms is a simple exercise of their rights, under the First Amendment and Section 230, to curate their sites. We support those rights. Nevertheless, we are always concerned when platforms take on the role of censors, which is why we continue to call on them to apply a [human rights framework](https://www.eff.org/deeplinks/2018/11/eff-court-remedy-bad-content-moderation-isnt-give-government-more-power-control) to those decisions.
+
+- - -
+
+[A thread on probabilistic thinking](https://threadreaderapp.com/thread/1332340450372575234.html)
+
+> Probability is about more than the odds. It’s about how we weigh our knowledge, the methods in which we use to deal with our ignorance, and understanding that in the real world the range of outcomes is rarely finite.
