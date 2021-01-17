@@ -34,6 +34,18 @@ Weird move by *Politico*, but as they say, there’s no such thing as bad press.
 
 - - -
 
+David French examines Christianity in light of Southern shame culture. 
+
+[Where Does the South End and Christianity Begin?](https://frenchpress.thedispatch.com/p/where-does-the-south-end-and-christianity)
+
+A couple of pull quotes...
+
+> We experience this reality constantly. It sometimes appears as if the bulk of the conservative media economy is built around finding and highlighting leftist insults, leftist disrespect, and leftist contempt.
+
+> In the South, this conflict between Gospel truth and human rebellion is reflected in the debate as to whether much of the South is merely “Christ-haunted” as opposed to “Christ-transformed.” There is no question that the South is religious—often very religious. But how much has that religion changed human hearts?
+
+- - -
+
 [A thread on probabilistic thinking](https://threadreaderapp.com/thread/1332340450372575234.html)
 
 > Probability is about more than the odds. It’s about how we weigh our knowledge, the methods in which we use to deal with our ignorance, and understanding that in the real world the range of outcomes is rarely finite.
