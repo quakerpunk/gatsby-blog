@@ -16,7 +16,7 @@ Bruh.
 
 > *The Epoch Times* is unreservedly pro–Donald Trump, and coverage of the newspaper tends to portray it as either a recent entrant into the Trumpist media stable or a case study of Facebook-enabled misinformation. To an extent, it is both. Following Joe Biden’s election as president, the newspaper reconstituted itself into a vehicle for esoteric voter-fraud allegations.
 
-An exposé of *The Epoch Times*, a paper I figured was right-wing before I read this article. I’m still sincerely trying to find a good right-leaning media outlet. 
+An exposé of *The Epoch Times*, a paper I figured was right-wing before I read this article. I’m still sincerely trying to find a good right-leaning media outlet.
 
 - - -
 
@@ -24,7 +24,7 @@ An exposé of *The Epoch Times*, a paper I figured was right-wing before I read 
 
 > In order to believe this, one must believe Shapiro’s brand of culture war belligerence is the only form of conservatism around. *Politico* is a publication, mind you, that regularly publishes *National Review’s* Rich Lowry to little blowback. It’s not as if there aren’t conservatives, even red-blooded ones, who could slot in as guests in their pages without incurring this much backlash. Knowles wants you to believe to denounce Shapiro is to denounce conservatism itself.
 
-Weird move by *Politico*, but as they say, there’s no such thing as bad press. 
+Weird move by *Politico*, but as they say, there’s no such thing as bad press.
 
 - - -
 
@@ -34,7 +34,7 @@ Weird move by *Politico*, but as they say, there’s no such thing as bad press.
 
 - - -
 
-David French examines Christianity in light of Southern shame culture. 
+David French examines Christianity in light of Southern shame culture.
 
 [Where Does the South End and Christianity Begin? | The Dispatch](https://frenchpress.thedispatch.com/p/where-does-the-south-end-and-christianity)
 
