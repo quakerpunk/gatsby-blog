@@ -36,7 +36,7 @@ Weird move by *Politico*, but as they say, there’s no such thing as bad press.
 
 David French examines Christianity in light of Southern shame culture. 
 
-[Where Does the South End and Christianity Begin?](https://frenchpress.thedispatch.com/p/where-does-the-south-end-and-christianity)
+[Where Does the South End and Christianity Begin? | The Dispatch](https://frenchpress.thedispatch.com/p/where-does-the-south-end-and-christianity)
 
 A couple of pull quotes...
 
