@@ -3,3 +3,7 @@ title: "Weekly Reading: Volume 4"
 date: "2021-01-24"
 description: ""
 ---
+
+[How White “Wokeness” Has Deflected From Real Change | Liberal Currents](https://www.liberalcurrents.com/how-white-wokeness-has-deflected-from-real-change/)
+
+> Missing in those changes is an admission of the discriminatory policies, content, and culture these organizations have allowed or encouraged in the past. Without the recognition of their own contributions to systemic racism, these cultural changes have failed to offer any redress to victims of their own discrimination. While racist mascots have changed, there has been no reform within the entirely white ownership of NFL teams, which continues to [reveal a toxic and racist culture](https://www.nytimes.com/2020/07/25/sports/football/woody-johnson-trump-jets.html) at the head of a league of mostly Black players. The league has pledged millions of dollars to ambitious [social justice initiatives](https://www.chicagotribune.com/sports/national-sports/sns-nfl-social-justice-role-20201223-ucmklrdywrdajku2uvznxev6gu-story.html) cultivated by those players, and reluctantly allowed some quiet kneeling on the field. Yet Colin Kaepernick has continued to be [lambasted and denied employment](https://www.forbes.com/sites/alexreimer/2020/12/08/nfl-keeps-trying-to-have-it-both-ways-with-colin-kaepernick/?sh=486897db2088) for his early, peaceful display of solidarity with Black lives. Despite the Commissioner’s statement of regret, the league has continued to fight to deny recompense for his years of unjust exile. 
