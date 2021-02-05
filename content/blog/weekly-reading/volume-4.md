@@ -1,6 +1,6 @@
 ---
 title: "Weekly Reading: Volume 4"
-date: "2021-01-24"
+date: "2021-02-07"
 description: "Time for new beginnings.“
 ---
 
