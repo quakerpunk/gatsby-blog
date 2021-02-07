@@ -14,10 +14,10 @@ description: "Time for new beginnings.“
 
 > I received a version of this letter from a reader today. I asked him if he would rewrite it to take some specific identifying information out (to protect himself and his family), so I could publish it. He did, and so I share it with you. I think it’s very powerful...
 
-Man, do I see where this dude is coming from!
+Man, I see where this dude is coming from!
 
 - - -
 
 [The MLK quotes *they* won't use but you should know, a thread](https://threadreaderapp.com/thread/1351181163210137603.html)
 
-I visited the [Martin Luther King Jr. National Historic Site](https://www.nps.gov/malu/index.htm) several years ago and something that struck me is our sugar-coated view of Rev. King. Folks, the man was a radical.
+I visited the [Martin Luther King Jr. National Historic Site](https://www.nps.gov/malu/index.htm) several years ago. Something that struck me is our sugar-coated view of Rev. King. Folks, he was a radical.
