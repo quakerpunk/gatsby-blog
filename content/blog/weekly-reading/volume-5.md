@@ -20,7 +20,7 @@ Indeed, I feel the presidency has too much power these days. You can see it in t
 
 - - -
 
-Or even kill someone without due process.
+Or kill someone without due process.
 
 [America's Shadow Death Row | The Atlantic](https://www.theatlantic.com/ideas/archive/2021/01/americas-shadow-death-row/617757/)
 
