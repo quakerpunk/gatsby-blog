@@ -1,7 +1,7 @@
 ---
 title: "Weekly Reading: Volume 4"
 date: "2021-02-07"
-description: "Time for new beginnings.“
+description: "Time for new beginnings."
 ---
 
 [How White "Wokeness" Has Deflected From Real Change | Liberal Currents](https://www.liberalcurrents.com/how-white-wokeness-has-deflected-from-real-change/)
