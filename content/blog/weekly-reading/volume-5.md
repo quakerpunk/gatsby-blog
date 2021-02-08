@@ -1,7 +1,7 @@
 ---
 title: "Weekly Reading: Volume 5"
 date: "2021-02-14"
-description: "Happy Valentine's Day?“
+description: "Happy Valentine's Day?"
 ---
 
 [Slouching Toward Post-Journalism | City-Journal](https://www.city-journal.org/journalism-advocacy-over-reporting)
