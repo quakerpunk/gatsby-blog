@@ -37,11 +37,11 @@ Speaking of security cameras...
 
 ## The Security of My New House 
 
-Events in 2020 and 2021 have shown me that it’s necessary to invest in security measures for my family and new home. Now I’m not trying to turn our happy home into a prepper’s bunker, but I am talking security cameras outside and a comfortable environment inside, along with some other creature comforts:
+Events in 2020 and 2021 are proof that it’s necessary to invest in security measures for my family and new home. Now I’m not trying to turn our happy home into a prepper’s bunker, but I am talking about installing security cameras outside and a comfortable environment inside, along with some other creature comforts:
 
 - The missus has talked about a whole house backup generator. Do we invest in that?
 - Our neighbor has a solar cell array. Do we keep up with the Jones and invest in that?
-- Do I slap a UV light on the air intake of our A/C units? It kills germs. Probably some really nasty ones.
+- Do I slap a UV light on the air intake of our A/C units? It kills germs. Some really nasty ones.
 
 ## Netlify to Discord
 
