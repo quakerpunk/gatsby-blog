@@ -4,17 +4,17 @@ date: 2021-02-15
 description: "Personal projects keeping me busy."
 ---
 
-Let’s digress for a moment. Here are some projects that are underway or in the planning stages.
+Let’s digress for a moment. I've got some projects that are underway or in the planning stages. Have a look.
 
 ## The Smartening of My New House
 
-I mean, a brand-spanking new house needs some kind of smart capability, right?
+I mean, a new house needs some kind of smart capability, right?
 
-One rule: the missus and I don’t want to farm this out to the cloud. That means no Amazon, no Google, no Nest, no Google, nothing. I've already set up [Home Assistant](https://www.home-assistant.io/) and established a new Z-Wave network with a smart plug that powers a standing floor lamp. My first automation switches the light on if I'm out shortly before sunset. 
+One rule: the missus won’t allow me to farm this out to the cloud. That means no Amazon, no Google, no Nest, no Google, nothing. I've already set up [Home Assistant](https://www.home-assistant.io/) and established a new Z-Wave network with a smart plug that powers a standing floor lamp. My first automation switches the light on if I'm out shortly before sunset. 
 
-Why Z-Wave? Sure, it’s a proprietary protocol, but I’ll know that these devices will have no trouble taking with one another. I could have saved a little bit of coin by going with Zigbee, but it turns out that compatibility among devices is not a certainty. The mesh networking capabilities is handy
+Why Z-Wave? Sure, it’s a proprietary protocol, but I’ll know that these devices will have no trouble talking with one another. I could have saved a little bit of coin by going with Zigbee, but it turns out that compatibility among these devices is not a certainty. Plus, a second, non-WiFi mesh network could be handy.
 
-We've almost been in the house for a year and in that time, I've gotten an idea of which switches we use the most. I'll look to update those with Z-Wave switches soon.
+Since living here, I've gotten an idea of which switches we use the most. I'll look to update those with Z-Wave switches soon.
 
 ## A File Server and a Pi-Hole
 
