@@ -1,7 +1,7 @@
 ---
 title: "My Leisure Time"
 date: 2021-02-15
-description: "Personal projects I have my eye on."
+description: "Personal projects keeping me busy."
 ---
 
 Let’s digress for a moment. Here are some projects that are underway or in the planning stages.
@@ -14,25 +14,30 @@ One rule: the missus and I don’t want to farm this out to the cloud. That mean
 
 Why Z-Wave? Sure, it’s a proprietary protocol, but I’ll know that these devices will have no trouble taking with one another. I could have saved a little bit of coin by going with Zigbee, but it turns out that compatibility among devices is not a certainty. The mesh networking capabilities is handy
 
-We've almost been in the house for a year and in that time, I've gotten an idea of which switches we use the most. I'll look to update those with Z-Wave switches as soon as I can.
+We've almost been in the house for a year and in that time, I've gotten an idea of which switches we use the most. I'll look to update those with Z-Wave switches soon.
 
-I’ve also wanted a massive home server. The plan is for a server based on [OpenMediaVault](https://www.openmediavault.org/) with services running in Docker. Those services would include:
+## A File Server and a Pi-Hole
+
+Of course, a smart home also needs a massive home server. The server I've built is based on [OpenMediaVault](https://www.openmediavault.org/) with services running in Docker. Those services include:
 
 - Home Assistant
 - [Jellyfin](https://jellyfin.org)
-- [Huginn](https://github.com/huginn/huginn)? Eh, maybe on its own machine.
-- Maybe [Nextcloud](https://nextcloud.com)
-- Something for automated backups (a la Time Machine)
-- Something to store video captured from security cameras
 - Other Docker utilities, such as Portainer and Watchtower
 
-I've also set up a Pi-Hole on a spare Raspberry Pi 3 I had lying around.
+I may add the following eventually:
+
+- [Huginn](https://github.com/huginn/huginn)
+- [Nextcloud](https://nextcloud.com)
+- Something for automated backups (a la Time Machine)
+- Something to store video captured from security cameras
+
+I've also set up a [Pi-Hole](https://pi-hole.net/) on a spare Raspberry Pi 3 I had lying around. That is a nice piece of software.
 
 Speaking of security cameras...
 
 ## The Security of My New House 
 
-[Events in 2020 and 2021](covid-chronicles) have shown me that it’s appropriate to I invest in security measures for my family and new home. Now I’m not trying to turn our happy home into a prepper’s bunker, but we are talking security cameras outside and a comfortable environment inside, along with some other creature comforts:
+Events in 2020 and 2021 have shown me that it’s necessary to invest in security measures for my family and new home. Now I’m not trying to turn our happy home into a prepper’s bunker, but I am talking security cameras outside and a comfortable environment inside, along with some other creature comforts:
 
 - The missus has talked about a whole house backup generator. Do we invest in that?
 - Our neighbor has a solar cell array. Do we keep up with the Jones and invest in that?
@@ -44,4 +49,4 @@ Someday, I will give money to Netlify. But until and even then, it would be nice
 
 ## A New Programming Language
 
-One of my goals for 2021 is to learn a new programming language. Ater, it's a good idea. I was torn earlier this year between Go and Rust, but settled on learning Go (I'll likely follow up with Rust at some point). So far, so good, I've completed the [initial code tutorial on golang.org](https://golang.org/doc/tutorial/getting-started), and now I'm working my through [A Tour of Go](https://tour.golang.org/list). I'm seeking ideas for my first project once I'm finished with the tour. Right now, I'm looking at building a Discord bot or contributing to a open source project, but if some need comes up, I can always tackle it with Go.
+One of my goals for 2021 is to learn a new programming language. I was torn earlier this year between Go and Rust, but settled on learning Go (I'll likely follow up with Rust at some point). So far, so good, I've completed the [initial code tutorial on golang.org](https://golang.org/doc/tutorial/getting-started) and now I'm working my through [A Tour of Go](https://tour.golang.org/list). I'm seeking ideas for my first project once I'm finished with the tour. Right now, I'm looking at building a Discord bot (maybe the aforementioned Netlify Notifier) or contributing to a open source project.
