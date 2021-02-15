@@ -18,20 +18,20 @@ Since living here, I've gotten an idea of which switches we use the most. I'll l
 
 ## A File Server and a Pi-Hole
 
-Of course, a smart home also needs a massive home server. The server I've built is based on [OpenMediaVault](https://www.openmediavault.org/) with services running in Docker. Those services include:
+Of course, a smart home also needs a massive home server, I think. The server I've built is based on [OpenMediaVault](https://www.openmediavault.org/) with services running in Docker. Those services include:
 
 - Home Assistant
 - [Jellyfin](https://jellyfin.org)
 - Other Docker utilities, such as Portainer and Watchtower
 
-I may add the following eventually:
+I may add the following:
 
 - [Huginn](https://github.com/huginn/huginn)
 - [Nextcloud](https://nextcloud.com)
 - Something for automated backups (a la Time Machine)
 - Something to store video captured from security cameras
 
-I've also set up a [Pi-Hole](https://pi-hole.net/) on a spare Raspberry Pi 3 I had lying around. That is a nice piece of software.
+I've also set up a [Pi-Hole](https://pi-hole.net/) on a spare Raspberry Pi 3 I had lying around.
 
 Speaking of security cameras...
 
