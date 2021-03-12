@@ -18,6 +18,6 @@
 
 [Hockey Goalies Are Too Big Now - The Atlantic](https://www.theatlantic.com/culture/archive/2021/02/hockey-goalies-are-too-big-now/618021/)
 
-- - -
-
 > The problem was right there on the screen: Tampa Bay’s Andrei Vasilevskiy, 6 foot 3, 210 pounds, athletic, fit, one of the very best goalies in the NHL, in the handshake line after the Lightning had won an early-round series in last season’s Stanley Cup playoffs. From the side, his belly seeming to hang low in front of him, he looked like Humpty Dumpty.
+
+Penned by Ken Dryden, one of the best to don the slimmer goaltender gear. 
