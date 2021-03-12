@@ -30,6 +30,16 @@ It's hard to come to any other conclusion: Amnesty International got played.
 
 - - -
 
+[Justice League: The Shocking, Exhilarating, Heartbreaking True Story of #TheSnyderCut](https://www.vanityfair.com/hollywood/2021/02/the-true-story-of-justice-league-snyder-cut)
+
+> In late 2017—months after the couple cut ties with the superhero epic amid an increasingly demoralizing battle with Warner Bros.—Deborah Snyder sat in a screening room on the studio lot alongside Christopher Nolan, one of the movie’s executive producers, as well as the director of the Dark Knight trilogy. She braced herself as the lights went down. “It was just…it’s a weird experience,” she says now. “I don’t know how many people have that experience. You’ve worked on something for a long time, and then you leave, and then you see what happened to it.”
+>
+> What happened to Justice League was a crisis of infinite doubt [ed's note -- Ha!]: a team of executives who lost faith in the architect of their faltering comic book movie empire, and a director in the midst of a family tragedy that sapped him of the will to fight. Joss Whedon, a director from another universe, the Marvel Cinematic one, left the Avengers after two movies and crossed over to comics rival DC, picking up Justice League not where Snyder left off, but remaking it significantly with extensive rewrites and hurried reshoots, just as the studio demanded.
+
+After reading this, it's hard not to root for Snyder, who I think has a captivating visual style. It's also easy to hate Warner execs. I really think if they didn't have jelly running in their veins, they could have made a cinematic universe that was visually stunning and  entertaining, but also more thought-provoking for viewers than what the Marvel Cinematic Universe has to offer.
+
+- - - 
+
 [Ask HN: What is a creative product you’ve discovered recently](https://news.ycombinator.com/item?id=26237932)
 
 Some things you may expect, some not, but all of it interesting. 
