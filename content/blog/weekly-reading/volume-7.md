@@ -1,3 +1,17 @@
+---
+title: "Weekly Reading: Volume 7"
+date: "2021-03-14"
+description: ""
+---
+
+[Why Won't Amnesty International Call Alexey Navalny a Prisoner of Conscience](https://www.newyorker.com/news/our-columnists/why-wont-amnesty-international-call-alexey-navalny-a-prisoner-of-conscience)
+
+> Amnesty International held a series of internal discussions, reviewed Navalny’s public record, and concluded that statements he had made more than a decade ago reached “the threshold of advocacy of hatred.” (I recently wrote about Navalny’s record and his political evolution in detail.) The organization also found that, although Navalny has not retracted his past statements, he has not made any xenophobic remarks in years, and that the Russian government is persecuting him solely for his opposition to Vladimir Putin’s regime. At the end of the discussions, Amnesty decided to continue actively campaigning for Navalny’s release—collecting, for example, more than two hundred thousand signatures on a letter that was delivered to the Russian government last week—but to refrain from referring to him as a prisoner of conscience. This policy was almost certainly too nuanced to convey publicly, but it wasn’t meant for public consumption: it was internal guidance. But it leaked.
+
+It's hard to come to any other conclusion: Amnesty International got played.
+
+- - -
+
 [Web inventor Sir Tim Berners-Lee warns of widening digital divide](https://www.bbc.com/news/technology-56367719)
 
 > Sir Tim Berners-Lee says too many young people do not have internet access and the digital divide has widened during the pandemic.
@@ -20,4 +34,4 @@
 
 > The problem was right there on the screen: Tampa Bay’s Andrei Vasilevskiy, 6 foot 3, 210 pounds, athletic, fit, one of the very best goalies in the NHL, in the handshake line after the Lightning had won an early-round series in last season’s Stanley Cup playoffs. From the side, his belly seeming to hang low in front of him, he looked like Humpty Dumpty.
 
-Penned by Ken Dryden, one of the best to don the slimmer goaltender gear. 
+Penned by Ken Dryden, one of the best to don the slim goaltender gear. 
