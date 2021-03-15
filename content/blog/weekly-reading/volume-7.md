@@ -1,7 +1,7 @@
 ---
 title: "Weekly Reading: Volume 7"
 date: "2021-03-14"
-description: ""
+description: "Conscience, Quantum Tensors and Netminders"
 ---
 
 [Why Won't Amnesty International Call Alexey Navalny a Prisoner of Conscience](https://www.newyorker.com/news/our-columnists/why-wont-amnesty-international-call-alexey-navalny-a-prisoner-of-conscience)
