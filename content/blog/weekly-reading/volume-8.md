@@ -38,3 +38,15 @@ Following on the heels of [last week’s long piece on the Snyder Cut](volume-7)
 > In response, the state-backed China Advertising Association, which has 2,000 members, has launched a new way to track and identify iPhone users called CAID, which is being widely tested by tech companies and advertisers in the country.
 
 I was leery of TikTok. Sad to say, my fears were not unfounded. 
+
+- - -
+
+> After months of stalling, Google finally revealed how much personal data they collect in Chrome and the Google app. No wonder they wanted to hide it.  
+> 
+> Spying on users has nothing to do with building a great web browser or search engine. We would know (our app is both in one). [pic.twitter.com/lJBbLTjMuu](https://t.co/lJBbLTjMuu)
+
+ DuckDuckGo (@DuckDuckGo) [March 15, 2021](https://twitter.com/DuckDuckGo/status/1371509053613084679)
+
+![Google vs. DuckDuckGo](privacy.jpg)
+
+Wow. 
