@@ -28,3 +28,13 @@ description: ""
 > Snyder was clearly building up to something huge with *Justice League*—a crystallization of the dark-superhero ethos he had been creating piecemeal, now buttressed by a more rounded-out cast of massive egos—so it's interesting to not only see his vision come to fruition, but also to compare it to what Joss Whedon pieced together when Snyder left the original production cycle due to a personal tragedy. As imperfect as this cut of Justice League is, it is better than [Whedon's directorial vision](https://arstechnica.com/gaming/2017/11/justice-league-review-who-will-avenge-these-short-changed-heroes/)—by a Krypton mile.
 
 Following on the heels of [last week’s long piece on the Snyder Cut](volume-7), here comes the first review I’ve seen. 
+
+- - -
+
+[TikTok wants to keep tracking iPhone users with state-backed workaround | Ars Technica](https://arstechnica.com/gadgets/2021/03/chinas-tech-giants-test-way-around-apples-new-privacy-rules)
+
+> In the future, they will have to ask permission to gather tracking data, a change that is expected to deal a multibillion-dollar bombshell to the online advertising industry and has been fought by Facebook, since most users are expected to decline to be tracked.
+> 
+> In response, the state-backed China Advertising Association, which has 2,000 members, has launched a new way to track and identify iPhone users called CAID, which is being widely tested by tech companies and advertisers in the country.
+
+I was leery of TikTok. Sad to say, my fears were not unfounded. 
