@@ -41,7 +41,7 @@ I was leery of TikTok. Sad to say, my fears were not unfounded.
 
 - - -
 
-> After months of stalling, Google finally revealed how much personal data they collect in Chrome and the Google app. No wonder they wanted to hide it.  
+> After months of stalling, Google finally revealed how much personal data they collect in Chrome and the Google app. No wonder they wanted to hide it.
 > 
 > Spying on users has nothing to do with building a great web browser or search engine. We would know (our app is both in one). [pic.twitter.com/lJBbLTjMuu](https://t.co/lJBbLTjMuu)
 
@@ -49,4 +49,4 @@ I was leery of TikTok. Sad to say, my fears were not unfounded.
 
 ![Google vs. DuckDuckGo](privacy.jpg)
 
-Wow. 
+Wow. And this is just i(Pad)OS
