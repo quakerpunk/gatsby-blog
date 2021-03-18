@@ -50,3 +50,9 @@ I was leery of TikTok. Sad to say, my fears were not unfounded.
 ![Google vs. DuckDuckGo](privacy.jpg)
 
 Wow. And this is just i(Pad)OS
+
+- - -
+
+[Israeli researchers announce discovery of new Dead Sea scroll fragments](https://www.independent.co.uk/news/world/middle-east/dead-sea-scrolls-new-israel-b1817703.html)
+
+> The Israel Antiques Authority (IAA) announced on Tuesday that fragments of a scroll had been found in a cave in the Judean Desert. The discovery came during a several-year-long survey of all the caves in the area, carried out by the IAA.
