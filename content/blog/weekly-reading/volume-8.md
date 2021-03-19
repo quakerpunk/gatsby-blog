@@ -56,3 +56,7 @@ Wow. And this is just i(Pad)OS
 [Israeli researchers announce discovery of new Dead Sea scroll fragments](https://www.independent.co.uk/news/world/middle-east/dead-sea-scrolls-new-israel-b1817703.html)
 
 > The Israel Antiques Authority (IAA) announced on Tuesday that fragments of a scroll had been found in a cave in the Judean Desert. The discovery came during a several-year-long survey of all the caves in the area, carried out by the IAA.
+
+- - -
+
+[All Futurama Opening Quotes](https://theabbie.github.io/blog/All-Futurama-Opening-Quotes)
