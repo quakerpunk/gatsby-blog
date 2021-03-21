@@ -60,7 +60,7 @@ Wow. And this is just i(Pad)OS
 
 > The Israel Antiques Authority (IAA) announced on Tuesday that fragments of a scroll had been found in a cave in the Judean Desert. The discovery came during a several-year-long survey of all the caves in the area, carried out by the IAA.
 
-No clue what this will mean for future Biblical
+Interesting development. Seems researchers were in a race to get to the Cave of Horror before thieves could. No idea what this will mean for future Biblical studies.
 
 - - -
 
