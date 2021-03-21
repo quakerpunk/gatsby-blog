@@ -53,3 +53,17 @@ I didn't sign up for a TikTok account, because I had a feeling they weren't goin
 ![Google vs. DuckDuckGo](privacy.jpg)
 
 Wow. And this is just i(Pad)OS
+
+- - -
+
+[Israeli researchers announce discovery of new Dead Sea scroll fragments](https://www.independent.co.uk/news/world/middle-east/dead-sea-scrolls-new-israel-b1817703.html)
+
+> The Israel Antiques Authority (IAA) announced on Tuesday that fragments of a scroll had been found in a cave in the Judean Desert. The discovery came during a several-year-long survey of all the caves in the area, carried out by the IAA.
+
+No clue what this will mean for future Biblical
+
+- - -
+
+[All Futurama Opening Quotes](https://theabbie.github.io/blog/All-Futurama-Opening-Quotes)
+
+Impress your friends!
