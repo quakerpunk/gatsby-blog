@@ -8,12 +8,15 @@ description: ""
 
 > Not since the 1970s has there been such an important discovery from the Great War in France. In woods on a ridge not far from the city of Reims, the bodies of more than 270 German soldiers have lain for more than a century - after they died the most agonising deaths imaginable.
 
+Despite opposition, a father-and-son team play amateur archaeologists and hit upon a major discovery.
+
 - - -
 
 [Japan emerges as backgammon powerhouse in the world | SoraNews24](https://soranews24.com/2021/03/15/japan-emerges-as-a-backgammon-powerhouse-in-the-world/)
 
 > What makes this team’s victory extra special is that none of Japan’s top players were even on it. There is said to be only 200,000 competitive backgammon players in Japan compared to a global total of 300 million — which amounts to about 0.06 percent — and yet three Japanese players can be found in the worldwide top ten: first place Masayuki “Mochy” Mochizuki, Second place Michihito “Michy” Kageyama, and Sixth Place Akiko Yazawa.
 
+I haven't played backgammon in a long time.
 
 - - - 
 
@@ -37,7 +40,7 @@ Following on the heels of [last week’s long piece on the Snyder Cut](volume-7)
 > 
 > In response, the state-backed China Advertising Association, which has 2,000 members, has launched a new way to track and identify iPhone users called CAID, which is being widely tested by tech companies and advertisers in the country.
 
-I was leery of TikTok. Sad to say, my fears were not unfounded. 
+I didn't sign up for a TikTok account, because I had a feeling they weren't going to be good stewards of my data. Sad to say, my fears were not unfounded. 
 
 - - -
 
@@ -50,13 +53,3 @@ I was leery of TikTok. Sad to say, my fears were not unfounded.
 ![Google vs. DuckDuckGo](privacy.jpg)
 
 Wow. And this is just i(Pad)OS
-
-- - -
-
-[Israeli researchers announce discovery of new Dead Sea scroll fragments](https://www.independent.co.uk/news/world/middle-east/dead-sea-scrolls-new-israel-b1817703.html)
-
-> The Israel Antiques Authority (IAA) announced on Tuesday that fragments of a scroll had been found in a cave in the Judean Desert. The discovery came during a several-year-long survey of all the caves in the area, carried out by the IAA.
-
-- - -
-
-[All Futurama Opening Quotes](https://theabbie.github.io/blog/All-Futurama-Opening-Quotes)
