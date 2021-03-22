@@ -1,7 +1,7 @@
 ---
 title: "Weekly Reading: Volume 8"
 date: "2021-03-21"
-description: "The tunne of death, backgammon reigns supreme in Japan, and the future today."
+description: "The tunnel of death, backgammon reigns supreme in Japan, and the future today."
 ---
 
 [Discovering WW1 tunnel of death hidden in France for a century | BBC News](https://www.bbc.com/news/world-europe-56370510)
